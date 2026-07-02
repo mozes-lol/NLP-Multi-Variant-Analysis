@@ -39,5 +39,5 @@ While Generative Adversarial Networks (GANs) are the gold standard for continuou
 * **Conclusion:** Autoregressive (GPT) and Encoder (BERT) architectures remain vastly superior for NLP tasks due to their ability to model long-range dependencies via the Attention mechanism, whereas the Text-GAN requires highly complex Reinforcement Learning frameworks (like SeqGAN policy gradients) to generate anything beyond repetitive, disjointed words.
 
 ## Repository Contents
-* `1.1. Documented Google Colab notebook. PDF.ipynb` - The complete code pipeline containing data preprocessing, model initializations, training loops, and test inferences.
-* `1.1. Documented Google Colab notebook. PDF.pdf` - PDF export of the completed notebook.
+* `notebook.ipynb` - The complete code pipeline containing data preprocessing, model initializations, training loops, and test inferences.
+* `notebook.pdf` - PDF export of the completed notebook.
